@@ -1,7 +1,7 @@
 /* Heading */
 
 .header {
-    background-image: url("../images/pattern.jpeg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
     background-position: center;
     background-size: cover;
     height: 120px;
